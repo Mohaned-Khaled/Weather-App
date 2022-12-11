@@ -1,3 +1,6 @@
+# Check Live: [https://world-weather-application.netlify.app)
+This project is developed by MOHANAD KHALED
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
