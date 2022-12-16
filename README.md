@@ -1,6 +1,6 @@
 # Check Live: [https://world-weather-application.netlify.app)
-React weather application using the OpenWeatherMap API
-This project is developed by MOHANAD KHALED
+React weather application using the OpenWeatherMap API.\
+This project is developed by MOHANAD KHALED.
 
 # Getting Started with Create React App
 
